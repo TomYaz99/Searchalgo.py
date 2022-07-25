@@ -1,5 +1,6 @@
 import doctest
 #PRETTY SIMILAR SEARCH ALGO BUT WITH DICS
+# purpose is to find the most common actors in a data base of movies and list them based off of score, appearnces ect...
 # all 2 digit years assumed to be in the 2000s
 START_YEAR = 2000
 
